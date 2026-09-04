@@ -2,7 +2,7 @@
 
 # ⚡ Sarang Belsare
 
-### 🚀 Senior Software Engineer | DevOps Architect | Cloud & AI Enthusiast
+### 🚀 Senior Software Engineer | DevOps Architect | AI Native Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+%F0%9F%92%BB;DevOps+%26+Cloud+Architect+%E2%98%81%EF%B8%8F;AWS+%7C+Azure+%7C+Kubernetes+%F0%9F%9A%80;Microservices+%7C+System+Design+%F0%9F%8F%97%EF%B8%8F;GenAI+%7C+LLMs+%7C+RAG+%F0%9F%A4%96;Building+Scalable+Production+Systems" />
 
@@ -18,8 +18,9 @@
 ☁️ Specialized in **AWS, Azure, Kubernetes & distributed systems**  
 🏗️ Strong focus on **system design, microservices & performance engineering**  
 ⚙️ Passionate about **DevOps automation, CI/CD pipelines & reliability engineering**  
-🤖 Exploring **Generative AI, LLMs, RAG architectures & AI-driven systems**  
+🤖 Passionate about **Generative AI, LLMs, RAG architectures & AI-driven systems**  
 🐧 Strong Linux foundation with production-grade infrastructure experience  
+🤖 AI Mastery: Strong foundation in LLMs, RAG, AI Agents & Agentic AI.  
 
 ---
 
